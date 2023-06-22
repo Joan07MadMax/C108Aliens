@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Cinzel Decorative', cursive;
+    background: rgb(182, 216, 229);
+}
+.header_div
+{
+    background: white;
+    color: blue;
+    text-align: center;
+}
+.header_div p
+{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: 'Cinzel Decorative', cursive;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    color: rgb(235, 244, 76);
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: rgb(11, 57, 11);
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(rgb(152, 98, 98), rgb(3, 149, 3), rgb(7, 7, 140));
+}
